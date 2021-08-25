@@ -1,0 +1,15 @@
+{
+	"sipvc": {
+		"name": "HPE Storage Integration Pack for VMware vCenter",
+		"version": "11.0",
+		"installer": "SIP4VCUpgrade-11.0.0.12-20210824.114329.star",
+		"release_size": "1639987200",
+		"release_notes_url": "https://support.hpe.com/hpesc/public/docDisplay?docId=a00111990en_us",
+		"signature": "2e3f49a85c053f010ec5a6cb10af0f1e",
+		"release_date": "2021-11-01",
+		"upgrade_from": ["10.3","10.2","11.0.11","11.0.10"],
+		"upgrade_to": ["11.0"],
+		"newfeatures": ["Alletra6K", "Alletra9K", "Nimble"],
+		"bugfixes": ["", "", ""]
+	}
+}
